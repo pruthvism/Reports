@@ -1,0 +1,1 @@
+body{margin:0!important;font-family:'IBM Plex Sans',sans-serif}app-root{padding:10px;margin-left:200px;display:block;margin-top:70px}@media(max-width:768px){app-root{margin-left:60px;-webkit-transition:1s;transition:1s}app-sidebar:hover+app-root{margin-left:200px;-webkit-transition:1s;transition:1s}}
